@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+* {
+  font-family: "Poppins";
+}
+
+.topNav {
+  background: #cb2d3e;
+  background: -webkit-linear-gradient(to right, #ef473a, #cb2d3e);
+  background: linear-gradient(to right, #ef473a, #cb2d3e);
+  font-family: "Righteous" !important;
+  letter-spacing: 2px;
+  font-variant: small-caps;
+  font-size: 35px;
+}
+
+.list {
+  background-color: #ccffcc;
+  transition: 0.5ms;
+}
+.list:hover {
+  background-color: #66ff66;
+}
+.list-content {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif !important;
+}
+.bg-complete {
+  background-color: #5df5a9;
+}
+
+body {
+    background: #E0EAFC; 
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC);
+}
+
+.display{
+    margin-top: 5rem !important;
+}
